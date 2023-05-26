@@ -1,6 +1,6 @@
 ## DK1 Stats
 
-Professional League of Legends player and streamer Duoking1 mentioned on stream that he wished he could view stats about his teammates. He felt as though his teammates consistently picked worse champions than the enemy team and that some players he got on his team performed significantly worse on his team than when they were on the enemy team.
+Professional League of Legends player and streamer Duoking1 mentioned that he wished he could view stats about his teammates and his teammates. He felt as though his teammates consistently picked worse champions than the enemy team and that some players he got on his team performed significantly worse on his team than when they were on the enemy team.
 
 I used the Riot Games API pull in games from all of his accounts in the current ranked season, and then used Pandas and Tableau to transform the data to aggregated statistics to produce a few dashboards so he'd have the tools to look into these trends himself.
 
