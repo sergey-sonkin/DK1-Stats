@@ -4,7 +4,7 @@ Professional League of Legends player and streamer Duoking1 mentioned that he wi
 
 I used the Riot Games API pull in games from all of his accounts in the current ranked season, and then used Pandas and Tableau to transform the data to aggregated statistics to produce a few dashboards so he'd have the tools to look into these trends himself.
 
-I've embedded the dashboards for visual purposes but to interact with the data please click on the included link.
+I've embedded the dashboards for visual purposes but to interact with the data please click on the included links.
 
 ## 1. Unfiltered data + Teammate data
 
